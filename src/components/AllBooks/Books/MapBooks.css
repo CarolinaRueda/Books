@@ -1,0 +1,26 @@
+.buttons {
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+}
+
+.buttons p {
+  padding-right: 0.5rem;
+}
+
+i {
+  background-color: transparent;
+  font-size: 1.3rem;
+}
+
+.buttons p:hover {
+  font-weight: bold;
+}
+
+.fa-check {
+  color: #6cce83;
+}
+
+.fa-xmark {
+  color: #f76c5e;
+}

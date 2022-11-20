@@ -1,0 +1,23 @@
+:root {
+  --lavender-web: #e7e6f7ff;
+  --queen-pink: #e3d0d8ff;
+  --heliotrope-gray: #aea3b0ff;
+  --old-lavender: #827081ff;
+  --periwinkle-crayola: #c6d2edff;
+}
+
+.completedCont {
+  background-color: var(--heliotrope-gray);
+  font-family: "Raleway", sans-serif;
+  height: 81.8vh;
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.textCom {
+  font-size: 1.3rem;
+}

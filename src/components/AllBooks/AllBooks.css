@@ -1,0 +1,11 @@
+:root {
+  --lavender-web: #e7e6f7ff;
+  --queen-pink: #e3d0d8ff;
+  --heliotrope-gray: #aea3b0ff;
+  --old-lavender: #827081ff;
+  --periwinkle-crayola: #c6d2edff;
+}
+
+.book-group {
+  justify-content: center;
+}

@@ -1,0 +1,85 @@
+:root {
+  --lavender-web: #e7e6f7ff;
+  --queen-pink: #e3d0d8ff;
+  --heliotrope-gray: #aea3b0ff;
+  --old-lavender: #827081ff;
+  --periwinkle-crayola: #c6d2edff;
+}
+
+p {
+  height: auto;
+  width: auto;
+}
+
+.infoBook {
+  background-color: var(--heliotrope-gray);
+  padding: 1.5rem;
+  font-family: "Raleway", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.giantCont {
+  background-color: var(--queen-pink);
+  border-radius: 5rem;
+  width: 80%;
+}
+
+.thisBook {
+  font-size: 1.15rem;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.titleBook {
+  margin: 0;
+  padding: 1rem 0;
+  text-align: center;
+  font-size: 1.7rem;
+}
+
+.allOfBook {
+  padding: 1rem;
+  width: 45%;
+}
+
+.flex {
+  width: 45%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagenBook {
+  width: 20rem;
+  height: 27rem;
+  /* height: 75%; */
+  /* padding: 0; */
+  border-radius: 2.5rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 0.6rem solid var(--old-lavender);
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.little {
+  font-size: 1.1rem;
+}
+
+.fa-solid {
+  font-size: 1.5rem;
+  background-color: var(--queen-pink);
+}
+
+.transform:hover {
+  transform: scale(1.02);
+  text-shadow: 0px 0px 6px var(--periwinkle-crayola);
+}

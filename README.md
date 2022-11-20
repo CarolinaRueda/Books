@@ -1,3 +1,21 @@
+# Welcome to my own project: Books
+
+This is a project about the books and their information, you can add to completed all of books you read.
+
+In this project I implemented the React Router routing library so for everything to work properly you'll have to run **npm install**.
+
+Preview:
+
+![Home Preview](./src/utilities/previews/home.png "Home")
+
+![Home Page Preview](./src/utilities/previews/homepage.png "Home Page")
+
+![All Books Preview](./src/utilities/previews/allbooks.png "All Books")
+
+![Completed Preview](./src/utilities/previews/completed.png "Completed")
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
